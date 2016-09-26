@@ -1,0 +1,51 @@
+body {
+	margin: 0;
+	background-color: #0878BF;
+	font-family: sans-serif;
+}
+
+header {
+	text-align: center;
+	background-color: #0A90E5;
+	padding: 4em 0 1em;
+}
+
+header p {
+	font-size: 1.4em;
+}
+
+header h1 {
+	margin: 0;
+}
+
+.input {
+	text-align: center;
+	padding: 1em 0;
+	background-color: #032840;
+}
+
+input, button {
+    padding: 10px 20px;
+    font-size: 18px;
+}
+
+.shopping_list {
+	text-align: center;
+	padding: 1em 0;
+}
+
+.main_list {
+	padding-left: 0;
+}
+
+li {
+	font-size: larger;
+}
+
+li.lined {
+	text-decoration: underline;
+}
+
+i {
+	margin-right: 1em;
+}
